@@ -7,7 +7,7 @@ public class master {
     String password = "123456";
     boolean flag;
 
-    public boolean lohin() {
+    public boolean login() {
         String a;
         String b;
         boolean flag = false;
