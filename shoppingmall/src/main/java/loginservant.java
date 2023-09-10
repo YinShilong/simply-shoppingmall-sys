@@ -12,7 +12,6 @@ public class loginservant {
         a = s.next();
         System.out.println("请输入你的密码");
         b = s.next();
-        //    System.out.println(st[0].name);
         while(i<5)
         {
             if(a.equals(st[i].name)&&b.equals(st[i].password))
