@@ -28,7 +28,7 @@ public class master {
         return flag;
     }
 
-    public void changemyself() {
+    public void changeme() {
         System.out.println("输入新密码");
         password = sc.next();
     }
